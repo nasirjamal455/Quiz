@@ -5,7 +5,7 @@ export const GlobalStyle = createGlobalStyle`
         height: 100%;
     }
     body {
-        background-color: navy;
+        background-color: rgb(170, 0, 255);
         margin: 0;
         padding: 0 20px;
         display flex;
