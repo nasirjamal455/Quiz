@@ -31,6 +31,7 @@ function App() {
     setQuestions(newQuestions);
     setScore(0);
     setNumber(0);
+    setUserAnswers([]);
     setLoading(false);
   };
 
